@@ -1,0 +1,7 @@
+ID: 0x1a077a
+class:	WindowsForms10.Window.8.app.0.11ecf05
+title:	eCapture Controller
+process:	Controller.exe
+style:	0x160F0000
+metrics:	x: 0, y: 12, width: 1600, height: 888
+tags:	4

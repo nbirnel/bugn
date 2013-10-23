@@ -1,0 +1,7 @@
+ID: 0x80886
+class:	Vim
+title:	Config.ini (~\Desktop\bugn_821) - GVIM
+process:	gvim.exe
+style:	0x140F0000
+metrics:	x: 0, y: 12, width: 880, height: 888
+tags:	1

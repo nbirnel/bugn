@@ -1,0 +1,7 @@
+ID: 0x504aa
+class:	gdkWindowToplevel
+title:	GNU Image Manipulation Program
+process:	gimp-2.8.exe
+style:	0x16CF0000
+metrics:	x: 878, y: 12, width: 722, height: 912
+tags:	16 (floating)

@@ -1,0 +1,7 @@
+ID: 0x9e04f6
+class:	ESET Desktop Window
+title:	ESET NOD32 Antivirus
+process:	egui.exe
+style:	0x14000000
+metrics:	x: 1600, y: 12, width: 880, height: 888
+tags:	16

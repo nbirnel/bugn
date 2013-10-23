@@ -1,0 +1,7 @@
+ID: 0x50918
+class:	WindowsForms10.Window.8.app.0.11ecf05
+title:	Export
+process:	Controller.exe
+style:	0x160A0000
+metrics:	x: 1600, y: 12, width: 880, height: 888
+tags:	1

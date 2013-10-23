@@ -1,0 +1,7 @@
+ID: 0x403a0
+class:	IEFrame
+title:	Relativity - Windows Internet Explorer
+process:	iexplore.exe
+style:	0x160F0000
+metrics:	x: 0, y: 12, width: 1280, height: 1012
+tags:	4

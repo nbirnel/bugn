@@ -1,0 +1,13 @@
+ID: 0x1508e2
+class:	CabinetWClass
+title:	Labels
+process:	explorer.exe
+style:	0x140F0000
+metrics:	x: 880, y: 12, width: 720, height: 888
+tags:	128ID: 0x2b09ee
+class:	CabinetWClass
+title:	U:\LEGACY\Labels\DWT
+process:	explorer.exe
+style:	0x140F0000
+metrics:	x: 0, y: 12, width: 1600, height: 888
+tags:	128

@@ -1,0 +1,6 @@
+class:	CabinetWClass
+title:	C:\Users\noah\Desktop\bugn_821
+process:	explorer.exe
+style:	0x140F0000
+metrics:	x: 880, y: 12, width: 720, height: 888
+tags:	1

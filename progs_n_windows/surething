@@ -1,0 +1,7 @@
+ID: 0x30d08
+class:	MvdStcdMdiFrame32
+title:	SureThing CD Labeler Deluxe - [CHEMPOINT_PROD021 summ conc ocr dvd.std (Design)]
+process:	stcd.exe
+style:	0x160F0000
+metrics:	x: 0, y: 12, width: 880, height: 888
+tags:	128

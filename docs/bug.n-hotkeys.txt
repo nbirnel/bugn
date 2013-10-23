@@ -1,0 +1,62 @@
+		General description
+		===================
+format: <modifier><key>::<function>(<argument>)
+modifier:
+- ! = Alt (Mod1Mask)
+- ^ = Ctrl (ControlMask)
+- + = Shift (ShiftMask)
+- # = LWin (Mod4Mask)
+		Window related hotkeys
+		======================
+#j::View_activateWindow(+1)
+#k::View_activateWindow(-1)
+#+j::View_shuffleWindow(+1)
+#+k::View_shuffleWindow(-1)
+#Enter::View_shuffleWindow(0)
+#q::Manager_closeWindow()
+#+d::Manager_toggleDecor()
+#+f::View_toggleFloating()
+#+m::Manager_moveWindow()
+#+s::Manager_sizeWindow()
+#+x::Manager_maximizeWindow()
+#?::Manager_getWindowInfo()
+#+i::Manager_getWindowList()
+		Layout related hotkeys
+		======================
+#Tab::View_setLayout(-1)
+#f::View_setLayout(3)
+#m::View_setLayout(2)
+#t::View_setLayout(1)
+#Left::View_setMFactor(-0.05)
+#Right::View_setMFactor(+0.05)
+#^t::View_rotateLayoutAxis(1, +1)
+#^Enter::View_rotateLayoutAxis(1, +2)
+#^Tab::View_rotateLayoutAxis(2, +1)
+#^+Tab::View_rotateLayoutAxis(3, +1)
+#^i::View_setMSplit(+1)
+#^d::View_setMSplit(-1)
+		Tag / View related hotkeys
+		==========================
+#BackSpace::Monitor_activateView(-1)
+#+0::Monitor_setWindowTag(0)
+#<tag>::Monitor_activateView(<tag>)
+#+<tag>::Monitor_setWindowTag(<tag>)
+#^<tag>::Monitor_toggleWindowTag(<tag>)
+		Monitor related hotkeys
+		=======================
+#.::Manager_activateMonitor(+1)
+#,::Manager_activateMonitor(-1)
+#+.::Manager_setWindowMonitor(+1)
+#+,::Manager_setWindowMonitor(-1)
+#^+.::Manager_setViewMonitor(+1)
+#^+,::Manager_setViewMonitor(-1)
+#b::Monitor_toggleBar()
+#Space::Monitor_toggleTaskBar()
+		Application related hotkeys
+		===========================
+#y::Bar_toggleCommandGui()
+#^e::**Run, edit %Config_filePath%
+#^s::Config_saveSession()
+#^r::Main_reload()
+#+q::**ExitApp
+#x::Run, c:\Users\Noah\Desktop\mintty.bat

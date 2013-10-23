@@ -1,0 +1,7 @@
+ID: 0x905ee
+class:	ThunderRT6FormDC
+title:	IPROBuild
+process:	buildnew.exe
+style:	0x160A0000
+metrics:	x: 256, y: 6, width: 768, height: 1012
+tags:	
