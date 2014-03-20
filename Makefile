@@ -5,3 +5,5 @@ PROG=bug.n
 ${PROG}.exe : source/Main.ahk source/images/kfm.ico
 	${CC} /in source/Main.ahk /icon source/images/kfm.ico /out ${PROG}.exe
 
+push :
+	git push origin master
