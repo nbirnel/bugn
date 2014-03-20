@@ -61,7 +61,7 @@ pressing the left Windows key and the shift key and the q key
   Move the active window to the first position in the window list of
   the view.
 
-: #c::**Manager_closeWindow()**
+: #+c::**Manager_closeWindow()**
   Close the active window.
 
 : #+d::**Manager_toggleDecor()**

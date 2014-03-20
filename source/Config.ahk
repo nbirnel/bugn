@@ -374,7 +374,7 @@ Config_saveSession() {
 #+Down::View_shuffleWindow(+1)				; Move the active window to the next position in the window list of the view.
 #+Up::View_shuffleWindow(-1)				; Move the active window to the previous position in the window list of the view.
 #+Enter::View_shuffleWindow(0)				; Move the active window to the first position in the window list of the view.
-#c::Manager_closeWindow()					; Close the active window.
+#+c::Manager_closeWindow()					; Close the active window.
 #+d::Manager_toggleDecor()					; Show / Hide the title bar of the active window.
 #+f::View_toggleFloating()					; Toggle the floating status of the active window (i. e. dis- / regard it when tiling).
 #+m::Manager_moveWindow()					; Move the active window by key (only floating windows).
