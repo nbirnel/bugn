@@ -1,3 +1,6 @@
+I am not maintaining this anymore.  -- Noah Birnel
+
+
 Tags     software / Microsoft Windows / tiling window management / AutoHotkey
 Title    bug.n
 Author   joten
